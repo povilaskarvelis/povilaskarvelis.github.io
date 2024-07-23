@@ -21,12 +21,12 @@ repository               : "povilaskarvelis/povilaskarvelis.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "website_pic_1.jpeg"
+  avatar           : "website_pic_1.png"
   name             : "Dr. Povilas Karvelis"
   pronouns         : # example: "she/her"  
   bio              : "A computational neuroscientist and methodologist; instrumentalism enthusiast, free will enjoyer"
   location         : "Toronto, Canada"
-  employer         : "Krembil Centre for Neuroinformatics, CAMH"
+  employer         : "Krembil Centre for Neuroinformatics"
   uri              : # URL
   email            : "povilas.karvelis@camh.ca" 
 
