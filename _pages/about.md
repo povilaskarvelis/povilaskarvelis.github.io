@@ -11,30 +11,6 @@ I work on the development of computational models with the aim to re-conceptuali
 
 I currently hold a postdoctoral research fellow position at the [Krembil Centre for Neuroinformatics](https://www.camh.ca/en/science-and-research/institutes-and-centres/krembil-centre-for-neuroinformatics) at the Centre for Addiction and Mental Health, in Toronto, Canada. 
 
-Another section
-======
 
-Yet another section
-======
-1. Something
-1. Something again
-
-
-Omg one more
-------
-Text 
-
-It just keeps going
-------
-
-**Some text in bold**
-
-
-Pls make it stop
-------
-
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
 
