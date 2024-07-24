@@ -5,7 +5,7 @@ permalink: /publication/2023-05-01-individual-differences
 excerpt: 'This paper details what I consider to be the main bottleneck in cognitive sciences and psychiatry research'
 date: 2024-05-01
 venue: 'Neuroscience & Biobehavioral Reviews'
-paperurl: 'http://povilaskarvelis.github.io/files/pKarvelis_2023_individual_differences.pdf'
+paperurl: 'http://povilaskarvelis.github.io/files/Karvelis_2023_individual_differences.pdf'
 citation: 'Karvelis, P., Paulus, M. P., & Diaconescu, A. O. (2023). Individual differences in computational psychiatry: A review of current challenges. Neuroscience & Biobehavioral Reviews, 148, 105137.'
 ---
 
