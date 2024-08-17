@@ -11,7 +11,7 @@ I am a postdoctoral research fellow at the [Krembil Centre for Neuroinformatics]
 
 I work on the development of computational models with the aim to re-conceptualize mental disorders and their treatment. I am driven by a vision of a multidisciplinary and personalized model of psychiatry that is aligned with the deepest understanding of human nature. 
 
-My most recent work addresses methodological challenges in studying individual differences and validating psychometric assessments - the challenges that I consider to be the main bottleneck for both productive research and real-life applications. My work is grounded in scientific instrumentalism, which provides a meta-framework that can flexibly accommodate all theoretical frameworks (without having to worry about their ontological status) and is perfectly aligned with the ultimate goal of improving the quality of life. In other words, "all models are wrong, but some are useful".
+My most recent work addresses methodological challenges in studying individual differences and validating psychometric assessments - the challenges that I consider to be the main bottleneck not only for productive research but also for clinical translation or other real-life applications. My work is grounded in scientific instrumentalism ("all models are wrong, but some are useful"), which is the most productive meta-framework to operate under. Instead of endlessly exploring vague scientific constructs, instrumentalism urges us to have more clarity on how our research can get us closer to the ultimate goal: improving the quality of life.
  
 
 
