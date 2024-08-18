@@ -6,5 +6,5 @@ excerpt: 'Bringing precision to the understanding and treatment of mental disord
 date: 2023-05-01
 venue: 'Neuroscience & Biobehavioral Reviews'
 paperurl: 'http://povilaskarvelis.github.io/files/Karvelis_2023_individual_differences.pdf'
-citation: 'Karvelis, P., Paulus, M. P., & Diaconescu, A. O. (2023). Individual differences in computational psychiatry: A review of current challenges. Neuroscience & Biobehavioral Reviews, 148, 105137.'
+url: 'https://doi.org/10.1016/j.neubiorev.2023.105137'
 ---

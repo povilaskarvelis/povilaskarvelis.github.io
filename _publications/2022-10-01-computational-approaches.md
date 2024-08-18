@@ -6,6 +6,6 @@ excerpt: 'Major depressive disorder is a heterogeneous diagnostic category with 
 date: 2022-10-01
 venue: 'Network Neuroscience'
 paperurl: 'http://povilaskarvelis.github.io/files/Karvelis_2022_computational_approaches.pdf'
-citation: 'Karvelis, P., Charlton, C. E., Allohverdi, S. G., Bedford, P., Hauke, D. J., & Diaconescu, A. O. (2022). Computational approaches to treatment response prediction in major depression using brain activity and behavioral data: A systematic review. Network Neuroscience, 6(4), 1066-1103.'
+url: 'https://doi.org/10.1162/netn_a_00233'
 ---
 

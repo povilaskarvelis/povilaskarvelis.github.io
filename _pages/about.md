@@ -15,7 +15,7 @@ My most recent work addresses methodological challenges in studying individual d
 
 Philosophically, my work is grounded in scientific instrumentalism ("all models are wrong, but some are useful"), which is the most productive meta-framework to operate under. Instead of endlessly studying poorly-defined scientific constructs, instrumentalism urges us to operationalize such constructs more systematically and to have more clarity on how our research can get us closer to the ultimate goal: improving the quality of life. The only real knowledge is useful knowledge.
  
-Get in touch if you'd like to join forces in bringing psychometric soundness to neuroscience (or if you'd like to join my instrumentalism cult)! 
+Get in touch if you'd like to join forces in bringing psychometric soundness to neuroscience and psychiatry (or if you'd like to join my instrumentalism cult)! 
 
 
 
