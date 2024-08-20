@@ -46,19 +46,30 @@
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% endif %}
 
-    {% if post.citation and post.paperurl and post.slidesurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}" target="_blank">Download PDF</a> | <a href="{{ post.journal_url }}" target="_blank">Full online article</a> | <a href="{{ post.slidesurl }}" target="_blank">Download Slides</a></p>
-    {% elsif post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}" target="_blank">Download PDF</a> | <a href="{{ post.journal_url }}" target="_blank">Full online article</a></p>
-    {% elsif post.citation and post.slidesurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}" target="_blank">Download Slides</a> | <a href="{{ post.journal_url }}" target="_blank">Full online article</a></p>
-    {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.journal_url }}" target="_blank">Full online article</a></p>
-    {% elsif post.paperurl %}
-      <p><a href="{{ post.paperurl }}" target="_blank">Download PDF</a> | <a href="{{ post.journal_url }}" target="_blank">Full online article</a></p>
-    {% elsif post.slidesurl %}
-      <p><a href="{{ post.slidesurl }}" target="_blank">Download Slides</a> | <a href="{{ post.journal_url }}" target="_blank">Full online article</a></p>
+<p>
+  {% if post.citation %}
+    Recommended citation: {{ post.citation }}<br />
+  {% endif %}
+
+  {% if post.journal_url %}
+    <a href="{{ post.journal_url }}" target="_blank">Full online article</a>
+    {% if post.paperurl or post.slidesurl %}
+      |
     {% endif %}
+  {% endif %}
+  
+  {% if post.paperurl %}
+    <a href="{{ post.paperurl }}" target="_blank">Download PDF</a>
+    {% if post.slidesurl %}
+      |
+    {% endif %}
+  {% endif %}
+
+  {% if post.slidesurl %}
+    <a href="{{ post.slidesurl }}" target="_blank">Download Slides</a>
+  {% endif %}
+  
+</p>
 
   </article>
 </div>
