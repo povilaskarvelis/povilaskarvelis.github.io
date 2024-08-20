@@ -25,10 +25,6 @@
           alt="">
       </div>
     {% endif %}
-
-	<h2 class="archive__item-title" itemprop="headline">
-	  <a href="{{ post.url }}" target="_blank">{{ title }}</a>
-	</h2>
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
@@ -41,11 +37,6 @@
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
-
-	{% if post.excerpt %}
-	  <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-	{% endif %}
-
     
     {% if post.citation and post.paperurl and post.slidesurl %}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download PDF</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
