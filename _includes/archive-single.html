@@ -29,6 +29,10 @@
 	<h2 itemprop="headline">
 	  {{ title }}
 	</h2>
+	
+	{% if post.authors %}
+	  <p class="archive__item-authors">{{ post.authors }}</p>
+	{% endif %}
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
