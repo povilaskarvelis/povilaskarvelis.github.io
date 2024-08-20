@@ -5,5 +5,5 @@ excerpt: 'Bringing precision to the understanding and treatment of mental disord
 date: 2023-05-01
 venue: 'Neuroscience & Biobehavioral Reviews'
 paperurl: 'http://povilaskarvelis.github.io/files/Karvelis_2023_individual_differences.pdf'
-url: 'https://doi.org/10.1016/j.neubiorev.2023.105137'
+journal_url: 'https://doi.org/10.1016/j.neubiorev.2023.105137'
 ---
