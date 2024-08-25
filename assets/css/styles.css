@@ -6,15 +6,14 @@
 
 .memes {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-gap: 20px;
-  max-width: 1200px; /* Optional: adjust this to control the overall width of the grid */
-  margin: 0 auto;
+  grid-template-columns: repeat(5, 1fr); /* 5 columns */
+  gap: 20px; /* Space between images */
+  max-width: 1000px; /* Optional: Adjust based on your design */
 }
 
 .memes img {
   width: 100%;
-  height: auto;
-  object-fit: cover;
-  border-radius: 10px; /* Optional: rounded corners */
+  height: auto; /* Maintain aspect ratio */
+  object-fit: cover; /* Ensure images fill the grid area without distortion */
+  border-radius: 5px; /* Optional: rounded corners */
 }
