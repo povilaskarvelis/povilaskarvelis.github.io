@@ -9,15 +9,15 @@ Some memes for you to enjoy!
 
 <div class="memes-container">
   <div class="memes">
-    ![Meme 1](/memes/meme1.jpg)
-    ![Meme 2](/memes/meme2.png)
-    ![Meme 3](/memes/meme3.jpg)
-    ![Meme 4](/memes/meme4.jpg)
-    ![Meme 5](/memes/meme5.png)
-    ![Meme 6](/memes/meme6.jpg)
-    ![Meme 7](/memes/meme7.png)
-    ![Meme 8](/memes/meme8.jpg)
-    ![Meme 9](/memes/meme9.jpg)
-    ![Meme 10](/memes/meme10.png)
+    <img src="/memes/meme1.jpg" alt="Meme 1">
+    <img src="/memes/meme2.png" alt="Meme 2">
+    <img src="/memes/meme3.jpg" alt="Meme 3">
+    <img src="/memes/meme4.jpg" alt="Meme 4">
+    <img src="/memes/meme5.png" alt="Meme 5">
+    <img src="/memes/meme6.jpg" alt="Meme 6">
+    <img src="/memes/meme7.png" alt="Meme 7">
+    <img src="/memes/meme8.jpg" alt="Meme 8">
+    <img src="/memes/meme9.jpg" alt="Meme 9">
+    <img src="/memes/meme10.png" alt="Meme 10">
   </div>
 </div>
