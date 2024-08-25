@@ -15,10 +15,9 @@
   width: 100%;
   height: auto; /* Maintain aspect ratio */
   object-fit: cover; /* Ensure images fill the grid area without distortion */
-  border-radius: 5px; /* Optional: rounded corners */
 }
 
 .memes img:hover {
-  transform: scale(2); /* Slight zoom on hover */
+  transform: scale(3); /* Slight zoom on hover */
   transition: transform 0.3s ease;
 }
