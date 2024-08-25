@@ -1,0 +1,21 @@
+.memes-container {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.memes {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 600px; /* Optional: adjust this to control the width of the column */
+}
+
+.memes img {
+  width: 100%;
+  max-width: 500px; /* Set a max-width to control the size */
+  height: auto; /* Maintain aspect ratio */
+  margin-bottom: 20px; /* Space between images */
+  object-fit: cover; /* Ensures the image covers the area without distortion */
+  border-radius: 10px; /* Optional: rounded corners */
+}
