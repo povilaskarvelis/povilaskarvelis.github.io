@@ -2,7 +2,7 @@
 layout: page
 title: "Memes"
 permalink: /memes/
-
+author_profile: true
 ---
 
 Some memes for you to enjoy!
