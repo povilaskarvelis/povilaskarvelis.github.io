@@ -9,9 +9,8 @@ Some memes for you to enjoy!
 
 <div class="memes-container">
   <div class="memes">
-    {% assign meme_files = site.static_files | where: "path", "/memes/" %}
-    {% for file in meme_files %}
-      {% if file.extname == ".jpg" or file.extname == ".png" %}
+    {% for file in site.static_files %}
+      {% if file.path contains '/memes/' and (file.extname == '.jpg' or file.extname == '.png') %}
         <img src="{{ file.path | relative_url }}" alt="Meme">
       {% endif %}
     {% endfor %}
