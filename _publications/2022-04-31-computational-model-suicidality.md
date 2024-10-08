@@ -1,0 +1,11 @@
+---
+title: "A Computational Model of Hopelessness and Active-Escape Bias in Suicidality"
+collection: publications
+excerpt: 'Currently, psychiatric practice lacks reliable predictive tools and a sufficiently detailed mechanistic understanding of suicidal thoughts and behaviors (STB) to provide timely and personalized interventions. Developing computational models of STB that integrate across behavioral, cognitive and neural levels of analysis could help better understand STB vulnerabilities and guide personalized interventions. To that end, we present a computational model based on the active inference framework. With this model, we show that several STB risk markers – hopelessness, Pavlovian bias and active-escape bias – are interrelated via the drive to maximize one’s model evidence. We propose four ways in which these effects can arise: (1) increased learning from aversive outcomes, (2) reduced belief decay in response to unexpected outcomes, (3) increased stress sensitivity and (4) reduced sense of stressor controllability. These proposals stem from considering the neurocircuits implicated in STB: how the locus coeruleus – norepinephrine (LC-NE) system together with the amygdala (Amy), the dorsal prefrontal cortex (dPFC) and the anterior cingulate cortex (ACC) mediate learning in response to acute stress and volatility as well as how the dorsal raphe nucleus – serotonin (DRN-5-HT) system together with the ventromedial prefrontal cortex (vmPFC) mediate stress reactivity based on perceived stressor controllability. We validate the model by simulating performance in an Avoid/Escape Go/No-Go task replicating recent behavioral findings. This serves as a proof of concept and provides a computational hypothesis space that can be tested empirically and be used to distinguish planful versus impulsive STB subtypes. We discuss the relevance of the proposed model for treatment response prediction, including pharmacotherapy and psychotherapy, as well as sex differences as it relates to stress reactivity and suicide risk.'
+date: 2022-03-31
+authors: Povilas Karvelis & Andreea O. Diaconescu 
+venue: 'Computational Psychiatry'
+paperurl: 'http://povilaskarvelis.github.io/files/Karvelis_2022_computational_model_suicidality.pdf'
+journal_url: 'https://doi.org/10.5334/cpsy.80'
+---
+
