@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research fellow at the [Krembil Centre for Neuroinformatics](https://www.camh.ca/en/science-and-research/institutes-and-centres/krembil-centre-for-neuroinformatics) at the Centre for Addiction and Mental Health, in Toronto, Canada.
+I am a postdoctoral research fellow in [Cognemo lab](https://cognemo.com) at the [Krembil Centre for Neuroinformatics](https://www.camh.ca/en/science-and-research/institutes-and-centres/krembil-centre-for-neuroinformatics) at the Centre for Addiction and Mental Health, in Toronto, Canada.
 
 I work on the development of computational models with the aim to re-conceptualize mental disorders and their treatment. I am driven by a vision of a multidisciplinary and personalized model of mental health that is aligned with a proper understanding of human nature.
 
