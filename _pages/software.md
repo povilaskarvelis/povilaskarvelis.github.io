@@ -8,5 +8,9 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.software reversed %}
-  {% include archive-single.html %}
+  <h2>{{ post.title }}</h2>
+  <div>
+    {{ post.content }}
+  </div>
+  <hr>
 {% endfor %} 
