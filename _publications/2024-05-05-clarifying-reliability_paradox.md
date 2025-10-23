@@ -1,9 +1,9 @@
 ---
-title: "Clarifying the reliability paradox: poor test-retest reliability attenuates group differences (preprint)"
+title: "Clarifying the reliability paradox: poor measurement reliability attenuates group differences"
 collection: publications
 excerpt: 'Cognitive sciences are grappling with the reliability paradox: measures that robustly produce within-group effects tend to have low test-retest reliability, rendering them unsuitable for studying individual differences. Despite the growing awareness of this paradox, its full extent remains underappreciated. Specifically, most research focuses exclusively on how reliability affects correlational analyses of individual differences, while largely ignoring its effects on studying group differences. Moreover, some studies explicitly and erroneously suggest that poor reliability does not pose problems for studying group differences, possibly due to conflating within- and between-group effects. In this brief report, we aim to clarify this misunderstanding. Using both data simulations and mathematical derivations, we show how observed group differences get attenuated by measurement reliability. We consider multiple scenarios, including when groups are created based on thresholding a continuous measure (e.g., patients vs. controls or median split), when groups are defined exogenously (e.g., treatment vs. control groups, or male vs. female), and how the observed effect sizes are further affected by differences in measurement reliability and between-subject variance between the groups. We provide a set of equations for calculating attenuation effects across these scenarios. This has important implications for biomarker research and clinical translation, as well as any other area of research that relies on group comparisons to inform policy and real-world applications.'
-date: 2025-05-05
+date: 2025-10-15
 authors: Povilas Karvelis & Andreea O. Diaconescu 
-venue: 'PsyArXiv'
-journal_url: 'https://doi.org/10.31234/osf.io/z4yqe'
+venue: 'Frontiers in Psychology'
+journal_url: 'https://doi.org/10.3389/fpsyg.2025.1592658'
 ---
