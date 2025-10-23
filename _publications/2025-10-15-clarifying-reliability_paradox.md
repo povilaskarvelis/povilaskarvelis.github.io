@@ -5,5 +5,6 @@ excerpt: 'Cognitive sciences are grappling with the reliability paradox: measure
 date: 2025-10-15
 authors: Povilas Karvelis & Andreea O. Diaconescu 
 venue: 'Frontiers in Psychology'
+paperurl: 'http://povilaskarvelis.github.io/files/Karvelis_2025_clarifying_reliability_paradox.pdf'
 journal_url: 'https://doi.org/10.3389/fpsyg.2025.1592658'
 ---
