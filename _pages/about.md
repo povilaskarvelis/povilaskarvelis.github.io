@@ -9,7 +9,7 @@ redirect_from:
 
 I am a postdoctoral research fellow in the [Cognitive Network Modelling Lab](https://cognemo.com) at the [Krembil Centre for Neuroinformatics](https://www.camh.ca/en/science-and-research/institutes-and-centres/krembil-centre-for-neuroinformatics) at the Centre for Addiction and Mental Health, in Toronto, Canada.
 
-I work at the intersection of computational neuroscience, psychometrics, and biostatistics, developing methods and tools to advance prediction models in precision psychiatry. My work spans multiple scales - from developing computational models and gamified assessments for specific disorders to addressing systemic problems in research practices across the field.
+I work at the intersection of computational neuroscience, psychometrics, and biostatistics, developing methods and tools to advance prediction models in precision psychiatry. My work spans multiple scales - from developing computational models and gamified cognitive assessments for specific disorders to addressing systemic problems in research practices.
 
 At the disorder level, I have developed and experimentally tested Bayesian models for diverse conditions including psychosis, autism ([Karvelis et al., 2018](https://doi.org/10.7554/eLife.34115)), and suicidality ([Karvelis et al., 2022](https://doi.org/10.5334/cpsy.80)). Such models could provide novel computational markers for diagnosis and treatment - yet their promise depends on overcoming methodological barriers that affect the entire field.
 
