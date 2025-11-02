@@ -24,8 +24,7 @@ author:
   avatar           : "website_pic_1.png"
   name             : "Dr. Povilas Karvelis"
   pronouns         : # example: "she/her"  
-  bio              : "Computational neuroscientist, psychometrician, biostatistician; instrumentalism enthusiast,
-    free will enjoyer"
+  bio              : "Computational neuroscientist, psychometrician, biostatistician; instrumentalism enthusiast,<br>free will enjoyer"
   location         : "Toronto"
   employer         : # URL
   uri              : # URL
