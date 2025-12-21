@@ -10,7 +10,7 @@ I offer consulting services to academic research groups, healthcare organization
 
 - Computational assays & digital biomarkers — development and validation of cognitive assessments for precision psychiatry; computational markers for diagnosis and treatment response.
 - Gamified digital health applications — design of gamified assessments and interventions for diagnostic and therapeutic use.
-- Psychometrics & measurement science — reliability and validity evaluation; addressing measurement challenges in biomarker and assessment development.
+- Psychometrics & individual differences — reliability and validity evaluation; addressing measurement challenges in biomarker and assessment development.
 - Predictive modeling & ML in healthcare — development and critical appraisal of clinical prediction pipelines; methodological best practices.
 - Clinical translation & real-world utility — study design and guidance on translating research findings into clinically meaningful applications.
 
