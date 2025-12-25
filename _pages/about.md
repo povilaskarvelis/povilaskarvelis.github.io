@@ -18,6 +18,10 @@ redirect_from:
     order: 2; /* Appears after text on mobile */
     width: 100%;
     margin-top: 2em;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: space-between;
   }
 
   .main-about-text {
@@ -25,7 +29,8 @@ redirect_from:
   }
 
   .image-gutter div {
-    margin-bottom: 20px;
+    flex: 1;
+    margin-bottom: 0;
   }
 
   .image-gutter img {
@@ -43,11 +48,16 @@ redirect_from:
     }
 
     .image-gutter {
+      display: block; /* Back to block for floating */
       width: 200px;
       float: right;
       margin-right: -240px;
       margin-top: 0;
       clear: both;
+    }
+
+    .image-gutter div {
+      margin-bottom: 20px;
     }
   }
 </style>
