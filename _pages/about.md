@@ -7,17 +7,64 @@ redirect_from:
   - /about.html
 ---
 
-<aside class="sidebar__right" style="width: 200px; float: right; margin-right: -240px; clear: both; margin-top: 0;">
-  <div style="margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/pic1.jpg" alt="Image 1" style="width: 100%; border: 1px solid #eee; padding: 4px; background: #fff;">
+<style>
+  /* Base / Mobile Styles */
+  .page__content {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .image-gutter {
+    order: 2; /* Appears after text on mobile */
+    width: 100%;
+    margin-top: 2em;
+  }
+
+  .main-about-text {
+    order: 1; /* Appears before images on mobile */
+  }
+
+  .image-gutter div {
+    margin-bottom: 20px;
+  }
+
+  .image-gutter img {
+    width: 100%;
+    height: auto;
+    border: 1px solid #eee;
+    padding: 4px;
+    background: #fff;
+  }
+
+  /* Desktop Styles (Screens wider than 925px) */
+  @media (min-width: 925px) {
+    .page__content {
+      display: block; /* Revert flex to allow floating */
+    }
+
+    .image-gutter {
+      width: 200px;
+      float: right;
+      margin-right: -240px;
+      margin-top: 0;
+      clear: both;
+    }
+  }
+</style>
+
+<aside class="image-gutter">
+  <div>
+    <img src="{{ site.baseurl }}/images/pic1.jpg" alt="Image 1">
   </div>
-  <div style="margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/pic3.jpg" alt="Image 3" style="width: 100%; border: 1px solid #eee; padding: 4px; background: #fff;">
+  <div>
+    <img src="{{ site.baseurl }}/images/pic3.jpg" alt="Image 3">
   </div>
-  <div style="margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/pic4.jpg" alt="Image 4" style="width: 100%; border: 1px solid #eee; padding: 4px; background: #fff;">
+  <div>
+    <img src="{{ site.baseurl }}/images/pic4.jpg" alt="Image 4">
   </div>
 </aside>
+
+<div class="main-about-text" markdown="1">
 
 I am a postdoctoral research fellow in the [Cognitive Network Modelling Lab](https://cognemo.com) at the [Krembil Centre for Neuroinformatics](https://www.camh.ca/en/science-and-research/institutes-and-centres/krembil-centre-for-neuroinformatics) at the Centre for Addiction and Mental Health, in Toronto, Canada.
 
@@ -30,3 +77,5 @@ At the field level, I have shown that novel computational assays often suffer fr
 To address these broader systemic problems, I have developed an open-source simulation engine, [www.e2p-simulator.com](https://www.e2p-simulator.com), that helps researchers interpret findings and plan studies through the lens of real-world predictive utility.
 
 More generally, I am interested in using computational tools to solve real-world problems while simultaneously exploring fundamental questions about the mind, intelligence, and knowledge.
+
+</div>
